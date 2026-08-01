@@ -60,6 +60,6 @@ pip install pandas numpy matplotlib seaborn scikit-learn folium beautifulsoup4 r
 
 ---
 
-## 📜 Certificate
+## Certificate
 
 IBM Data Science Professional Certificate — [Coursera](https://www.coursera.org/professional-certificates/ibm-data-science)
